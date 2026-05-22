@@ -4,30 +4,26 @@
 
 📍 **Локация:** Уральск, Казахстан
 
+---
+
 ### 🚀 Технологии и инструменты:
 
 #### Backend & Languages
-![TypeScript](https://shields.io)
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
-![NestJS](https://shields.io)
+- TypeScript
+- Node.js
+- Express.js
+- NestJS
 
 #### Databases (SQL & NoSQL)
-![PostgreSQL](https://shields.io)
-![MongoDB](https://shields.io)
+- PostgreSQL
+- MongoDB
 
 #### Frontend Basics
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-
----
-
-### 📊 Моя GitHub Статистика:
-![](https://vercel.app)
-![](https://vercel.app)
+- HTML5
+- CSS3
 
 ---
 
 ### 📫 Как со мной связаться:
 - **Email:** sultanutegen8@gmail.com
-- **Telegram:** [@hoodandiceandleft](https://t.me)
+- **Telegram:** @hoodandiceandleft
